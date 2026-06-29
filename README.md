@@ -1,4 +1,4 @@
-# LLaMA 3 AI Chatbot with LangGraph and Streamlit
+# LLaMA 3 AI Chatbot 
 
 A ReAct-based AI chatbot built using **LLaMA 3.2**, **LangChain**, **LangGraph**, and **Streamlit**. The chatbot intelligently chooses between multiple tools such as **Wikipedia**, **DuckDuckGo Search**, **Calculator**, and **Date & Time** to answer user queries accurately. It runs completely locally using **Ollama** and maintains conversation history throughout the session.
 
